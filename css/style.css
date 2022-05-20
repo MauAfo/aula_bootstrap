@@ -1,0 +1,48 @@
+
+.navbar{
+    background-color:#80FF00;
+
+}
+
+.quem-somos{
+
+    background-color:#585858;
+    color:white;
+    font-family: fantasy;
+
+    
+}
+
+.margin{
+
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+}
+body{
+
+    font: 20px arial, serif;
+    font-style: italic;
+}
+
+.parceiros{
+
+    background-color: aquamarine;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+
+}
+
+.serviços{
+
+    background-color: #9996bb;
+    color:white;
+}
+.foo{
+
+    background-color: black;
+    color:white;
+    padding-top: 15px;
+    padding-bottom: 5px;
+    
+}
